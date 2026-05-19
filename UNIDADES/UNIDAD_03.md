@@ -1,192 +1,271 @@
-# Unidad 3: Metodología de Sistemas
+# UNIDAD 3: METODOLOGÍA DE SISTEMAS Y CICLO DE VIDA
 
-## Material de Estudio Extenso
+## Objetivos de aprendizaje
 
-Este contenido profundiza en cada punto solicitado utilizando la información técnica y teórica de las fuentes proporcionadas (Yourdon, Pressman y Kendall & Kendall).
+Al finalizar esta unidad, el alumno será capaz de:
 
----
-
-## 1. Metodología de Sistemas
-
-### a) Metodología: Definición e Importancia
-
-En el contexto de la ingeniería de software y el análisis de sistemas, una **metodología** se define como un conjunto organizado de actividades, acciones y tareas que se ejecutan para crear un producto de software de alta calidad.
-
-No es simplemente una receta rígida, sino un marco de trabajo o "procedimiento común" que guía al equipo de desarrollo.
-
-#### Importancia
-
-- **Estabilidad y Control:** Proporciona organización a una actividad compleja.
-- **Congruencia:** Mantiene coherencia entre proyectos dentro de una organización.
-- **Puntos de Revisión Administrativa:** Permite evaluar el progreso mediante hitos.
-- **Gestión del Riesgo:** Evita subestimar fases críticas del desarrollo.
+- Comprender el ciclo de vida del desarrollo de sistemas.
+- Identificar las etapas del desarrollo de sistemas de información.
+- Reconocer el rol del analista en el proceso de desarrollo.
+- Diferenciar enfoques secuenciales e iterativos.
+- Comprender la importancia del relevamiento, análisis, diseño e implementación.
+- Relacionar metodologías de desarrollo con el pensamiento estructurado.
 
 ---
 
-### b) Aplicación en el Análisis de Sistemas
+# 1. CICLO DE VIDA DEL DESARROLLO DE SISTEMAS
 
-El análisis de sistemas aplica metodologías para comprender las necesidades humanas en relación con la tecnología.
+El desarrollo de sistemas de información no es un proceso improvisado, sino un conjunto de actividades organizadas que permiten construir soluciones tecnológicas de forma estructurada.
 
-- **Identificación de Problemas:** Diferencia problemas reales de síntomas.
-- **Modelado de la Esencia:** Define el comportamiento del sistema independientemente de la tecnología.
-- **Comunicación:** Usa herramientas gráficas para facilitar el entendimiento entre usuarios y técnicos.
+Tanto en :contentReference[oaicite:0]{index=0} como en :contentReference[oaicite:1]{index=1}, el desarrollo de sistemas se entiende como un ciclo de vida compuesto por etapas sucesivas e iterativas.
 
 ---
 
-### c) Ciclo de Vida de Desarrollo de Sistemas (SDLC)
+## Definición de ciclo de vida
 
-El **SDLC** es una metodología por fases para el análisis y diseño de sistemas.
-
-- Es un proceso organizado y metódico.
-- Su objetivo es crear sistemas útiles, de alta calidad y mantenibles.
+El ciclo de vida del desarrollo de sistemas es el conjunto de fases que atraviesa un sistema desde su concepción hasta su implementación, mantenimiento y eventual reemplazo.
 
 ---
 
-### d) Paradigmas de Ciclos de Vida de Sistemas
+## Etapas del ciclo de vida
 
-#### Modelo de Cascada
+Las etapas más comunes son:
 
-- Enfoque secuencial por etapas.
-- Cada fase debe completarse antes de pasar a la siguiente.
-- Desventaja: rigidez ante cambios.
+- Relevamiento
+- Análisis
+- Diseño
+- Desarrollo / Implementación
+- Pruebas
+- Mantenimiento
 
-#### Modelo Incremental
+---
+
+## Enfoque secuencial
+
+El enfoque secuencial implica que las etapas se ejecutan una detrás de otra, de manera ordenada.
+
+Características:
+
+- Cada fase se completa antes de pasar a la siguiente.
+- Mayor control del proceso.
+- Menor flexibilidad ante cambios.
+
+Este enfoque se asocia a modelos tradicionales del ciclo de vida.
+
+---
+
+## Enfoque iterativo
+
+El enfoque iterativo propone desarrollar el sistema en ciclos repetitivos.
+
+Características:
 
 - Entregas parciales del sistema.
-- Permite obtener funcionalidad rápidamente.
+- Retroalimentación constante del usuario.
+- Adaptación continua a cambios.
 
-#### Modelos Evolutivos
-
-**Prototipos**
-- Construcción rápida para validar requerimientos.
-
-**Modelo en Espiral**
-- Basado en la gestión de riesgos.
-- Iterativo y progresivo.
-
-#### Modelos Ágiles
-
-- Priorizan adaptabilidad y colaboración.
-- Entregas rápidas y continuas.
+Este enfoque permite mejorar el sistema progresivamente.
 
 ---
 
-### e) Selección del Modelo
+## Comparación
 
-La elección depende de las características del proyecto.
-
-- **Cascada:** Requerimientos estables.
-- **Ágil:** Entornos dinámicos.
-- **Orientado a Objetos:** Reutilización y modelado por clases.
-
-**Factores críticos:**
-- Volatilidad de requisitos
-- Tiempo disponible
-- Tamaño del equipo
-- Riesgo técnico
+| Enfoque | Característica principal | Flexibilidad | Riesgo |
+|----------|------------------------|-------------|--------|
+| Secuencial | Fases ordenadas | Baja | Alto ante cambios |
+| Iterativo | Ciclos repetidos | Alta | Menor riesgo |
 
 ---
 
-## 2. El Analista de Sistemas
+# 2. ROL DEL ANALISTA DE SISTEMAS
 
-### a) Rol en el Proyecto
+El analista de sistemas es el profesional encargado de estudiar la organización, comprender sus necesidades y proponer soluciones informáticas adecuadas.
 
-El analista es el nexo entre usuarios y programadores.
-
-- Evalúa procesos organizacionales.
-- Diseña soluciones funcionales.
+Según Kendall & Kendall, el analista actúa como un puente entre los usuarios y el sistema técnico.
 
 ---
 
-### b) Funciones (Roles)
+## Funciones del analista
 
-#### Según Kendall & Kendall
-
-- **Consultor:** Aporta visión externa.
-- **Experto de Soporte:** Brinda conocimiento técnico.
-- **Agente de Cambio:** Facilita la adopción de nuevas tecnologías.
-
-#### Según Yourdon
-
-- **Arqueólogo y Escribano:** Documenta procesos informales.
-- **Mediador:** Resuelve conflictos entre actores.
-- **Innovador:** Propone nuevas soluciones.
-- **Orquestador:** Coordina recursos del proyecto.
+- Relevar información de usuarios.
+- Identificar problemas y oportunidades.
+- Definir requerimientos del sistema.
+- Modelar procesos organizacionales.
+- Proponer soluciones tecnológicas.
+- Actuar como intermediario entre áreas técnicas y usuarios.
 
 ---
 
-## 3. Etapas Clásicas del Desarrollo de Sistemas
+## Interacción con usuarios
 
-### 1. Estudio Preliminar
+El analista debe interactuar constantemente con los usuarios del sistema porque:
 
-- Identificación de problemas y oportunidades.
-- **Producto:** Informe de viabilidad.
+- Son quienes conocen los procesos reales.
+- Expresan necesidades operativas.
+- Validan las soluciones propuestas.
 
----
-
-### 2. Planeamiento del Proyecto
-
-- Definición de tareas, tiempos y costos.
-- **Herramientas:** Gantt y PERT.
+La comunicación efectiva es clave para evitar errores de interpretación.
 
 ---
 
-### 3. Relevamiento
+## Identificación de necesidades
 
-- Obtención de requerimientos.
+Las necesidades pueden ser:
 
-**Métodos:**
+- Operativas (tareas diarias)
+- Tácticas (control y coordinación)
+- Estratégicas (decisiones globales)
+
+El analista debe traducir estas necesidades en requerimientos claros del sistema.
+
+---
+
+# 3. ETAPAS DEL DESARROLLO DE SISTEMAS
+
+## 3.1 Relevamiento
+
+El relevamiento consiste en la recopilación de información sobre el sistema actual y sus problemas.
+
+### Técnicas de relevamiento
+
 - Entrevistas
+- Observación
 - Cuestionarios
-- JAD
-- Observación (STROBE)
+- Revisión documental
+
+Objetivo: entender la situación real.
 
 ---
 
-### 4. Análisis de Necesidades
+## 3.2 Análisis
 
-- Transformación en especificaciones.
+El análisis consiste en estudiar la información relevada para identificar problemas, causas y oportunidades de mejora.
 
-**Herramientas:**
-- DFD (Diagramas de Flujo de Datos)
-- Diccionario de Datos
+En esta etapa se busca:
 
----
-
-### 5. Diseño del Sistema
-
-- Diseño lógico y físico.
-- Enfoque en entradas y salidas del sistema.
+- Detectar fallas del sistema actual.
+- Identificar procesos críticos.
+- Definir necesidades reales.
 
 ---
 
-### 6. Programación y Prueba
+## 3.3 Definición del sistema
 
-- Desarrollo del sistema.
-- Detección de errores antes de implementación.
+En esta etapa se establece qué hará el nuevo sistema.
 
----
+Incluye:
 
-### 7. Implementación
-
-- Puesta en marcha del sistema.
-
-**Estrategias:**
-- Cambio directo
-- Paralelo
-- Gradual
+- Alcance del sistema
+- Objetivos
+- Límites del sistema
+- Funcionalidades principales
 
 ---
 
-### 8. Mantenimiento
+## 3.4 Requerimientos
 
-- Corrección de errores.
-- Adaptación y mejora continua.
+Los requerimientos son las condiciones que el sistema debe cumplir.
+
+Se dividen en:
+
+### Requerimientos funcionales
+Describen qué hace el sistema.
+
+Ejemplo: registrar ventas.
+
+### Requerimientos no funcionales
+Describen cómo debe funcionar el sistema.
+
+Ejemplo: seguridad, rendimiento.
 
 ---
 
-## Referencias bibliográficas
+## 3.5 Modelado
 
-- Yourdon – *Análisis Estructurado Moderno*
-- Pressman – *Ingeniería del Software*
-- Kendall & Kendall – *Análisis y Diseño de Sistemas*
+El modelado consiste en representar el sistema mediante diagramas y modelos que facilitan su comprensión.
+
+Según :contentReference[oaicite:2]{index=2}, el modelado estructurado permite representar procesos, flujos de datos y relaciones del sistema.
+
+Ejemplos de modelos:
+
+- Diagramas de flujo de datos (DFD)
+- Modelos de procesos
+- Diagramas de contexto
+
+---
+
+## 3.6 Diseño
+
+El diseño transforma los requerimientos en una solución técnica.
+
+Incluye:
+
+- Arquitectura del sistema
+- Diseño de bases de datos
+- Interfaces de usuario
+- Diseño de procesos
+
+El diseño define cómo será construido el sistema.
+
+---
+
+## 3.7 Implementación
+
+La implementación es la construcción del sistema.
+
+Incluye:
+
+- Programación
+- Integración de componentes
+- Configuración del entorno
+- Pruebas iniciales
+
+---
+
+# 4. IMPORTANCIA DEL CICLO DE VIDA
+
+El ciclo de vida permite:
+
+- Reducir errores en el desarrollo.
+- Organizar el trabajo en etapas.
+- Mejorar la comunicación entre usuarios y desarrolladores.
+- Asegurar la calidad del sistema final.
+
+---
+
+# RESUMEN INTEGRADOR
+
+El desarrollo de sistemas sigue un ciclo de vida estructurado compuesto por etapas como relevamiento, análisis, diseño e implementación. Este proceso puede seguir un enfoque secuencial o iterativo.
+
+El analista de sistemas cumple un rol fundamental como intermediario entre usuarios y tecnología, transformando necesidades organizacionales en requerimientos técnicos.
+
+El modelado y la metodología estructurada permiten representar y comprender el sistema antes de su construcción.
+
+---
+
+# ACTIVIDADES PRÁCTICAS
+
+## Actividad 1
+Describa un sistema real (ej: comercio, hospital o escuela) e identifique:
+
+- Relevamiento de información posible
+- Problemas actuales
+- Posibles requerimientos
+
+---
+
+## Actividad 2
+Clasifique cada etapa del ciclo de vida según su objetivo principal.
+
+---
+
+## Actividad 3
+Diferencie requerimientos funcionales y no funcionales con ejemplos.
+
+---
+
+## Actividad 4
+Explique el rol del analista en el desarrollo de sistemas.
+
+---
+

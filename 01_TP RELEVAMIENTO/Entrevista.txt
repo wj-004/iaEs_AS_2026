@@ -1,0 +1,61 @@
+Zapt.Simon.
+Vent.Min|ts.
+
+VentMin. VentMay. | VentaLocal. Vent.Min(Rol)
+Client.Fijo. Todos los pedidos. Preg.A ventas por mayor.
+CajaMinorista.
+
+SoloFabr.Propia. Desde la MateriaPrim. <-- Ellos. Solo compran las plantas.
+
+Llegar.EncenderLaComputadora.
+--Sin sistema. PLanilla de Excel.
+Tiene que preguntar para poder proceder. 3 Listas de precios. Mostrador(Más cara, uso)|Indust.|Comercio(revender).
+
+Modelo, se le presenta. Debe ir al deposito para chechar el stock. Se trabaja con la planilla de datos del día anterior.
+La chica del deposito podría haber usado ya algo del stock. Deposito general, stock de toda la fabrica. Pasan los pedidos de las tres secciones.
+Administrativa, administra pedido al por mayor. Hace pedidos, se los envia a los depositos, y la del deposito los envía, pero ella no se enterá.
+
+Redes sociales \ Whats.++.
+
+Pocos piden asesoramiento. La mayoría ya sabe lo que quiere. La mayoria del tiempo vienen con algo en mente.
+Sín stock, se ofrece otro.
+
+Diferencias may. Punta de acero o no. Al precio no influye. Porque valen lo mismo los modelos. Es a gusto del comprador.
+•⁠  ⁠Talle. -Primero pregunta, luego va al deposito. -Muchos no miran, solo compran y se van, no se prueban.
+
+Datos: Color, talle o con punta o no de acero.
+•⁠  ⁠De cabeza va a buscar al deposito.
+•⁠  ⁠de ser más de 1, lo anota y va.
+
+Deposito. 1+ proceso más. Antes de salir con los zapatos.
+La encargada, pide que tome una foto a la etiqueta de la caja. Y ella da las bajas en un grupo WhatsApp.
+\1 celular en común\. Al salir del deposito se cuenta que lo vendío.
+Pero si no ocurre la venta, ella debe borrar la foto del grupo para considerar que no hubo registro de venta.
+
+Ing.De.Producción. Debe coincidir con su planilla. Con el teléfono.
+•⁠  ⁠Suele haber no haber coincidencia.
+
+•⁠  ⁠Debe esperar para poder corroborar. Cuando no está la encargada.
+•⁠  ⁠El cliente queda esperando.
+•⁠  ⁠A veces ella debe venir con muchas cajas.
+
+•⁠  ⁠Ella es la única del local. Y debe hacer esperar varios clientes.
+
+Encargada de Administración. Por Mayor. Demora varios dóas, en el día no se puede retirar. A la encargada no le da el tiempo. 
+Encargada del Deposito. 
+Ingeniero de Producción. 
+
+Ella le ayuda a la administradora a manejar esas ventas al por mayor. Una oficina al costado del local. (¿Problemas de guiar al consumidor?)
+Los clientes están confundidos, porque ahora las ventas por mayor y por menor están separados, a diferencia de antes.
+
+•⁠  ⁠Excel de ella, filtro literal, todo lo que vale 1 o más, se ha vendido. Ella debe guardar como PDF, debe enviarlo a la administrativa, ella imprime, y debe enviarlo al deposito.
+Drive, lo guarda, para tener un resguardo.
+
+Planilla de filtro de caja. Cierre del día. Imprimir, pdf, administradora, carpeta compartida de servidor con la jefa.
+Se manda a fabricar cuando no se tiene talla o modelo. Sí es cliente conocido, para confiar o no en la palabra, 30%/50/60%. En tantos días está listo el perido. Se suele hacer con talals especiales. 47,49. 48 suele tener/ porque se devolvio o no.
+Dicen que dejaran de palabra. Y sera siempre con seña. Para pedidos de talla especial. Y en colores blancos también. No se suelen fabricar. No se tiene stock de estos. Solo a pedido.
+
+
+
+Al final del día, hace otra planilla, por medio del reistro del teléfono. La del deposito. Hace otra baja. Del stock existente.
+Jefe de prod. Trabaja con inf. de ayer. No sabe el stock de hoy.

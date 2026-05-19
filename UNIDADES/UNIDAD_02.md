@@ -1,220 +1,312 @@
-# Unidad 2: La Administración
+# UNIDAD 2: LA ADMINISTRACIÓN
 
-Basado en la bibliografía: *Administración de las Organizaciones* — Raquel Rosenberg.
+## Objetivos de aprendizaje
 
----
+Al finalizar esta unidad, el alumno será capaz de:
 
-# 📌 1. Concepto de Administración
-
-La administración es el proceso mediante el cual se **planifican, organizan, gestionan y controlan los recursos de una organización**, con el fin de alcanzar objetivos previamente establecidos de manera sistemática.
-
-Este proceso no es una actividad aislada, sino un conjunto de funciones interrelacionadas que se desarrollan de forma continua.
-
-Su finalidad principal es lograr **eficiencia y eficacia**, optimizando el uso de los recursos disponibles y asegurando el cumplimiento de los objetivos organizacionales.
+- Comprender el concepto de administración y su importancia en las organizaciones.
+- Identificar los principales procesos administrativos.
+- Reconocer las etapas de planeación, organización, gestión y control.
+- Diferenciar tipos de presupuestos y su función.
+- Comprender la relación entre eficiencia, eficacia y control organizacional.
 
 ---
 
-# 📌 2. Necesidad de la administración en las organizaciones
+# 1. CONCEPTO DE ADMINISTRACIÓN
 
-La administración es indispensable en cualquier organización debido a que permite:
+La administración es una disciplina fundamental para el funcionamiento de cualquier organización, ya que permite coordinar recursos humanos, materiales, tecnológicos y financieros para alcanzar objetivos.
 
-- Coordinar el trabajo de múltiples personas y áreas
-- Integrar recursos humanos, materiales, financieros y tecnológicos
-- Establecer objetivos claros y alcanzables
-- Adaptarse a cambios del entorno
-- Reducir la incertidumbre en la toma de decisiones
-- Evitar la duplicación de esfuerzos
-- Incrementar la productividad organizacional
+Desde la perspectiva de la gestión organizacional, la administración no es una actividad aislada, sino un proceso continuo de toma de decisiones, planificación y control.
 
-👉 En ausencia de administración, las organizaciones tienden a la desorganización, la ineficiencia y la falta de control sobre sus procesos.
+Según la bibliografía de administración organizacional, la administración se entiende como el proceso mediante el cual se diseñan y mantienen condiciones para que un grupo de personas trabaje en forma coordinada y eficaz hacia objetivos comunes.
 
 ---
 
-# 📌 3. Proceso de administración
+## Necesidad de la administración
 
-El proceso administrativo es un **sistema cíclico y dinámico**, compuesto por funciones fundamentales que se retroalimentan entre sí:
+Las organizaciones requieren administración porque:
+
+- Los recursos son limitados.
+- Existen múltiples objetivos simultáneos.
+- Es necesario coordinar actividades.
+- Se requiere reducir incertidumbre en la toma de decisiones.
+- Se deben optimizar resultados.
+
+Sin administración, las organizaciones tienden al desorden, la duplicación de esfuerzos y la ineficiencia.
+
+---
+
+## La administración como proceso
+
+La administración se concibe como un proceso compuesto por funciones interrelacionadas:
 
 - Planeación
 - Organización
-- Gestión (Dirección)
+- Gestión (dirección)
 - Control
 
-Estas funciones no ocurren de manera aislada, sino que interactúan constantemente. Por ejemplo, los resultados del control alimentan nuevas decisiones de planificación.
+Estas funciones no son etapas aisladas, sino actividades continuas que se retroalimentan.
 
 ---
 
-# 📌 4. Proceso de planeación
+# 2. PROCESO DE PLANEACIÓN
 
-La planeación es la función inicial del proceso administrativo y consiste en definir con anticipación los objetivos de la organización y los medios necesarios para alcanzarlos.
+La planeación es la función administrativa que define qué se quiere lograr y cómo se va a lograr.
 
-Implica la toma de decisiones previas a la ejecución de acciones.
-
-## 📍 Elementos de la planeación
-
-- **Objetivos:** resultados deseados
-- **Políticas:** lineamientos generales de acción
-- **Estrategias:** cursos de acción para alcanzar objetivos
-- **Programas:** conjunto estructurado de actividades
-- **Procedimientos:** pasos específicos para ejecutar actividades
+Implica anticiparse al futuro, establecer objetivos y determinar los cursos de acción necesarios.
 
 ---
 
-## 📌 Programas
+## Características de la planeación
 
-Los programas son herramientas de planificación que permiten traducir objetivos generales en acciones concretas.
-
-### Características:
-- Definen actividades específicas
-- Establecen responsables
-- Determinan tiempos de ejecución
-- Identifican recursos necesarios
-- Ordenan secuencialmente las tareas
-
-👉 Los programas permiten pasar del nivel estratégico al operativo.
+- Orientación al futuro
+- Toma de decisiones anticipada
+- Reducción de incertidumbre
+- Definición de objetivos claros
+- Selección de alternativas
 
 ---
 
-## 📌 Presupuestos
+## Tipos de planeación
 
-Los presupuestos son planes expresados en términos cuantitativos, generalmente monetarios, que permiten estimar recursos y resultados.
+### Planeación estratégica
+- Largo plazo
+- Definición de objetivos generales
+- Alta dirección
 
-### Funciones de los presupuestos:
-- Planificación de recursos
-- Control financiero
-- Evaluación de desempeño
-- Apoyo a la toma de decisiones
+### Planeación táctica
+- Mediano plazo
+- Coordinación de áreas
+- Mandos medios
 
-### Tipos de presupuestos:
-
-- **Presupuesto financiero:** ingresos, gastos y resultados económicos esperados
-- **Presupuesto operativo:** recursos necesarios para actividades diarias
-- **Presupuesto de inversión:** adquisición de activos de largo plazo
-- **Presupuesto de recursos humanos:** costos asociados al personal (sueldos, capacitación, etc.)
-- **Presupuesto flexible:** ajustable según variaciones de actividad
-- **Presupuesto fijo:** no varía ante cambios en el nivel de actividad
-
-👉 Los presupuestos son un puente entre la planificación y el control.
+### Planeación operativa
+- Corto plazo
+- Tareas específicas
+- Nivel operativo
 
 ---
 
-# 📌 5. Proceso de organización
+## Programas y presupuestos
 
-La organización es la función administrativa que permite estructurar los recursos y actividades de la empresa para cumplir los objetivos establecidos en la planificación.
+### Programas
 
-## 📍 Definición
+Un programa es un conjunto organizado de actividades orientadas al cumplimiento de un objetivo específico.
 
-Consiste en dividir el trabajo, asignar responsabilidades, establecer jerarquías y coordinar actividades dentro de una estructura formal.
+Incluye:
 
-## 📍 Características de la organización
+- Actividades
+- Responsables
+- Tiempos
+- Recursos
+
+Ejemplo: programa de capacitación de personal.
+
+---
+
+### Presupuestos
+
+El presupuesto es una herramienta de planificación que expresa en términos económicos los recursos necesarios para ejecutar actividades.
+
+Permite:
+
+- Asignar recursos
+- Controlar gastos
+- Evaluar resultados
+
+---
+
+## Tipos de presupuestos
+
+### Presupuesto operativo
+Relacionado con actividades diarias.
+
+Ejemplo: gastos de funcionamiento.
+
+### Presupuesto de inversión
+Relacionado con adquisición de activos.
+
+Ejemplo: compra de maquinaria.
+
+### Presupuesto financiero
+Relaciona ingresos y egresos.
+
+Ejemplo: flujo de caja.
+
+---
+
+# 3. PROCESO DE ORGANIZACIÓN
+
+La organización es la función administrativa que se encarga de estructurar recursos y actividades para cumplir los objetivos planificados.
+
+---
+
+## Definición
+
+Organizar implica:
+
+- Definir tareas
+- Asignar responsabilidades
+- Establecer jerarquías
+- Coordinar recursos
+
+---
+
+## Características de la organización
 
 - División del trabajo
-- Especialización de funciones
-- Coordinación entre áreas
-- Establecimiento de jerarquías
-- Formalización de relaciones laborales
-- Definición de autoridad y responsabilidad
+- Coordinación de actividades
+- Jerarquización
+- Formalización de roles
 
-## 📍 Importancia
+---
 
-Una buena organización permite:
-- Evitar duplicidad de tareas
-- Mejorar la eficiencia operativa
-- Clarificar roles y responsabilidades
+## Estructura organizacional
+
+La estructura define cómo se distribuyen las tareas y la autoridad dentro de una organización.
+
+Incluye:
+
+- Áreas funcionales
+- Niveles jerárquicos
+- Canales de comunicación
+
+---
+
+## Importancia de la organización
+
+Permite:
+
+- Evitar duplicación de tareas
+- Mejorar la eficiencia
+- Clarificar responsabilidades
 - Facilitar la comunicación interna
 
 ---
 
-# 📌 6. Proceso de gestión (Dirección)
+# 4. PROCESO DE GESTIÓN (DIRECCIÓN)
 
-La gestión o dirección es la función administrativa que se encarga de **coordinar y guiar a las personas para ejecutar lo planificado**.
+La gestión o dirección es la función administrativa que se encarga de guiar a las personas para ejecutar lo planificado.
 
-Se centra en el factor humano dentro de la organización.
-
-## 📍 Elementos de la gestión
-
-- Comunicación organizacional
-- Liderazgo
-- Motivación del personal
-- Supervisión de tareas
-- Toma de decisiones en la ejecución
+Incluye liderazgo, comunicación y motivación.
 
 ---
 
-## 📌 Medición de resultados
+## Medición de resultados
 
-La medición de resultados permite evaluar si las acciones ejecutadas se alinean con lo planificado.
+La gestión requiere evaluar si los objetivos están siendo alcanzados.
 
-Se basa en:
-- Indicadores de gestión
-- Estándares previamente definidos
-- Comparación entre resultados esperados y reales
+Esto implica:
 
-👉 Es fundamental para retroalimentar el proceso administrativo.
-
----
-
-## 📌 Eficacia y eficiencia
-
-- **Eficacia:** grado en que se alcanzan los objetivos establecidos
-- **Eficiencia:** relación entre resultados obtenidos y recursos utilizados
-
-👉 Una organización puede ser eficaz pero no eficiente, o eficiente pero no eficaz; el ideal es alcanzar ambos aspectos simultáneamente.
+- Comparar resultados con objetivos
+- Analizar desvíos
+- Tomar acciones correctivas
 
 ---
 
-# 📌 7. Proceso de control
+## Eficacia y eficiencia
 
-El control es la función administrativa que permite verificar, comparar y corregir el desempeño organizacional en relación con lo planificado.
+### Eficacia
 
-## 📍 Etapas del control
+Es el grado en que se alcanzan los objetivos.
 
-- Establecimiento de estándares
-- Medición del desempeño
-- Comparación de resultados
-- Análisis de desviaciones
-- Aplicación de acciones correctivas
+Pregunta clave: ¿se logró el objetivo?
 
 ---
 
-## 📌 Tipos de control
+### Eficiencia
 
-- **Control preventivo:** se anticipa a los problemas antes de que ocurran
-- **Control concurrente:** se realiza durante la ejecución de las actividades
-- **Control correctivo:** se aplica una vez detectadas las desviaciones
-- **Control interno:** orientado a procesos dentro de la organización
-- **Control externo:** realizado por agentes fuera de la organización
+Es la relación entre recursos utilizados y resultados obtenidos.
+
+Pregunta clave: ¿se logró con el menor uso posible de recursos?
 
 ---
 
-# 📌 8. Integración del proceso administrativo
+## Comparación
 
-El proceso administrativo funciona como un sistema integrado:
-
-- La planificación define el rumbo
-- La organización estructura los recursos
-- La gestión ejecuta las acciones
-- El control retroalimenta todo el sistema
-
-👉 Este ciclo es continuo y permite la mejora constante de la organización.
+| Concepto | Enfoque | Pregunta |
+|----------|--------|----------|
+| Eficacia | Resultado | ¿Se logró el objetivo? |
+| Eficiencia | Recursos | ¿A qué costo se logró? |
 
 ---
 
-# 📌 9. Aportes para el analista de sistemas
+# 5. PROCESO DE CONTROL
 
-En la formación de analistas de sistemas, la administración es fundamental porque permite:
-
-- Comprender la estructura y dinámica de las organizaciones
-- Identificar procesos de negocio
-- Analizar flujos de información
-- Modelar sistemas alineados a objetivos organizacionales
-- Interpretar requerimientos desde una perspectiva organizacional
-- Detectar puntos de mejora mediante análisis de procesos
-
-👉 El analista de sistemas actúa como puente entre la organización y los sistemas de información, por lo que el conocimiento administrativo es esencial.
+El control es la función administrativa que permite verificar si las actividades se están realizando según lo planificado.
 
 ---
 
-# 📌 CONCLUSIÓN
+## Etapas del control
 
-La administración es un proceso continuo, sistemático e integrado que permite a las organizaciones alcanzar sus objetivos mediante la planificación, organización, gestión y control de sus recursos. Su comprensión es clave no solo para la gestión organizacional, sino también para disciplinas como el análisis de sistemas, donde se requiere entender cómo funcionan las organizaciones para diseñar soluciones tecnológicas adecuadas.
+1. Establecer estándares
+2. Medir resultados
+3. Comparar con lo planificado
+4. Corregir desvíos
 
+---
+
+## Tipos de control
+
+### Control preventivo
+Se realiza antes de la ejecución.
+
+Ejemplo: revisión de presupuesto antes de aprobarlo.
+
+---
+
+### Control concurrente
+Se realiza durante la ejecución.
+
+Ejemplo: supervisión de tareas en tiempo real.
+
+---
+
+### Control posterior
+Se realiza después de la ejecución.
+
+Ejemplo: auditoría contable.
+
+---
+
+## Importancia del control
+
+Permite:
+
+- Detectar errores
+- Mejorar procesos
+- Asegurar cumplimiento de objetivos
+- Retroalimentar la planificación
+
+---
+
+# RESUMEN INTEGRADOR
+
+La administración es un proceso continuo que permite coordinar recursos y esfuerzos para alcanzar objetivos organizacionales. Se compone de cuatro funciones principales: planeación, organización, gestión y control.
+
+La planeación define objetivos y recursos, la organización estructura el trabajo, la gestión dirige a las personas hacia los objetivos y el control verifica el cumplimiento de lo planificado.
+
+---
+
+# ACTIVIDADES PRÁCTICAS
+
+## Actividad 1
+Identifique en una organización real:
+
+- Un ejemplo de planeación estratégica
+- Un ejemplo de planeación operativa
+
+---
+
+## Actividad 2
+Clasifique los siguientes casos:
+
+- Auditoría contable
+- Supervisión en tiempo real
+- Presupuesto anual
+
+---
+
+## Actividad 3
+Explique con sus palabras la diferencia entre eficacia y eficiencia y dé un ejemplo.
+
+---
