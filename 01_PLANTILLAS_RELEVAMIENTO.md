@@ -9,7 +9,7 @@
 
 ### 👥 Usuarios entrevistados
 | Nombre | Rol | Área |
-|--------|-----|------|
+|--------|-----|------|∑
 
 ### Procesos relevados
 | Proceso | Descripción breve | Responsable |
