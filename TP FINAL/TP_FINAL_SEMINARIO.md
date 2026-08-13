@@ -2,12 +2,12 @@
 
 ## Información General
 
-- **Materia:** Seminario
-- **Carrera:** Tecnicatura en Análisis de Sistemas
-- **Año:** 2026
-- **Alumno/s:**
-- **Docente:**
-- **Título del Proyecto:**
+* **Materia:** Seminario
+* **Carrera:** Tecnicatura en Análisis de Sistemas
+* **Año:** 2026
+* **Alumno/s:**
+* **Docente:**
+* **Título del Proyecto:**
 
 ---
 
@@ -17,19 +17,19 @@
 
 Describir claramente la situación actual indicando:
 
-- Qué ocurre.
-- A quién afecta.
-- Cuáles son sus consecuencias.
-- Por qué representa un problema para la organización.
+* Qué ocurre.
+* A quién afecta.
+* Cuáles son sus consecuencias.
+* Por qué representa un problema para la organización.
 
 ## 1.2 Contexto organizacional
 
 Describir la organización y el entorno donde se implementará el sistema.
 
-- Tipo de organización.
-- Área o sector involucrado.
-- Usuarios participantes.
-- Procesos relacionados.
+* Tipo de organización.
+* Área o sector involucrado.
+* Usuarios participantes.
+* Procesos relacionados.
 
 ## 1.3 Objetivos del sistema
 
@@ -59,37 +59,37 @@ Definir explícitamente qué procesos o funcionalidades quedan fuera del proyect
 
 ### Organización relevada
 
-- Organización:
-- Área:
-- Fecha del relevamiento:
-- Analista:
+* Organización:
+* Área:
+* Fecha del relevamiento:
+* Analista:
 
 ### Procesos principales
 
 | Proceso | Descripción | Responsable |
-|----------|------------|-------------|
-| | | |
-| | | |
+| ------- | ----------- | ----------- |
+|         |             |             |
+|         |             |             |
 
 ### Entradas del sistema
 
 | Entrada | Origen |
-|----------|---------|
-| | |
-| | |
+| ------- | ------ |
+|         |        |
+|         |        |
 
 ### Salidas del sistema
 
 | Salida | Destino |
-|---------|---------|
-| | |
-| | |
+| ------ | ------- |
+|        |         |
+|        |         |
 
 ### Problemas detectados inicialmente
 
-- ...
-- ...
-- ...
+* ...
+* ...
+* ...
 
 ---
 
@@ -98,30 +98,30 @@ Definir explícitamente qué procesos o funcionalidades quedan fuera del proyect
 ### Entrevistas realizadas
 
 | Entrevistado | Rol | Área |
-|--------------|------|------|
-| | | |
-| | | |
+| ------------ | --- | ---- |
+|              |     |      |
+|              |     |      |
 
 ### Observación directa
 
 | Proceso observado | Usuario |
-|------------------|----------|
-| | |
-| | |
+| ----------------- | ------- |
+|                   |         |
+|                   |         |
 
 ### Documentación analizada
 
-- Formularios.
-- Planillas.
-- Reportes.
-- Sistemas existentes.
-- Reglamentos o procedimientos internos.
+* Formularios.
+* Planillas.
+* Reportes.
+* Sistemas existentes.
+* Reglamentos o procedimientos internos.
 
 ### Principales hallazgos
 
-- ...
-- ...
-- ...
+* ...
+* ...
+* ...
 
 ---
 
@@ -131,14 +131,14 @@ Realizar una descripción textual y secuencial del funcionamiento actual de la o
 
 La narrativa debe permitir comprender:
 
-- Cómo se inicia el proceso.
-- Qué actividades se realizan.
-- Qué actores intervienen.
-- Qué información se utiliza.
-- Qué documentos o registros se generan.
-- Cómo finaliza el proceso.
+* Cómo se inicia el proceso.
+* Qué actividades se realizan.
+* Qué actores intervienen.
+* Qué información se utiliza.
+* Qué documentos o registros se generan.
+* Cómo finaliza el proceso.
 
-La descripción debe reflejar el flujo real de trabajo y servirá como base para la elaboración del Diagrama de Contexto, el DFD Nivel 0, la identificación de actores y la definición de requerimientos.
+La descripción debe reflejar el flujo real de trabajo y servirá como base para la elaboración de los DFD del sistema actual y la posterior identificación de problemas.
 
 ### Narrativa
 
@@ -146,199 +146,221 @@ La descripción debe reflejar el flujo real de trabajo y servirá como base para
 
 ---
 
-## 2.4 Identificación de problemas
+## 2.4 Modelado de Procesos del Sistema Actual
 
-| ID | Problema | Impacto | Frecuencia |
-|----|----------|----------|------------|
-| P1 | | Alto/Medio/Bajo | Alta/Media/Baja |
-| P2 | | Alto/Medio/Bajo | Alta/Media/Baja |
-| P3 | | Alto/Medio/Bajo | Alta/Media/Baja |
+Los diagramas incluidos en esta sección deben representar exclusivamente el funcionamiento del sistema actual relevado.
+
+No deben representar la solución informática que será desarrollada posteriormente.
+
+### 2.4.1 Diagrama de Contexto
+
+Representar el sistema actual como un único proceso, identificando:
+
+* Entidades externas.
+* Entradas de información.
+* Salidas de información.
+* Límites del sistema analizado.
+
+### 2.4.2 DFD Nivel 0
+
+Representar los principales procesos que componen el sistema actual, incluyendo:
+
+* Procesos principales.
+* Entidades externas.
+* Flujos de datos.
+* Almacenes de datos, cuando correspondan.
+
+El DFD Nivel 0 deberá mantener el balanceo con el Diagrama de Contexto.
+
+### 2.4.3 Diccionario de procesos
+
+Describir brevemente los procesos identificados en el DFD del sistema actual.
+
+| Proceso | Descripción |
+| ------- | ----------- |
+|         |             |
+|         |             |
+
+### 2.4.4 Diccionario de datos del DFD
+
+Definir los principales flujos y estructuras de datos representados en los diagramas.
+
+| Flujo | Descripción |
+| ----- | ----------- |
+|       |             |
+|       |             |
+
+---
+
+## 2.5 Identificación de problemas
+
+A partir del relevamiento y del modelado realizado, identificar los principales problemas del sistema actual.
+
+| ID | Problema | Impacto         | Frecuencia      |
+| -- | -------- | --------------- | --------------- |
+| P1 |          | Alto/Medio/Bajo | Alta/Media/Baja |
+| P2 |          | Alto/Medio/Bajo | Alta/Media/Baja |
+| P3 |          | Alto/Medio/Bajo | Alta/Media/Baja |
 
 ### Causas probables
 
-- ...
-- ...
-- ...
+* ...
+* ...
+* ...
 
 ---
 
-## 2.5 Análisis del problema
+## 2.6 Análisis del problema
 
 ### Análisis PIECES
 
-| Categoría | Problema detectado |
-|-----------|-------------------|
-| Performance | |
-| Information | |
-| Economics | |
-| Control | |
-| Efficiency | |
-| Service | |
+| Categoría   | Problema detectado |
+| ----------- | ------------------ |
+| Performance |                    |
+| Information |                    |
+| Economics   |                    |
+| Control     |                    |
+| Efficiency  |                    |
+| Service     |                    |
 
 ### Conclusiones del análisis
 
-Breve análisis de cómo los problemas detectados afectan a la organización.
+Analizar cómo los problemas detectados afectan el funcionamiento de la organización y qué necesidades deberán ser atendidas por la solución propuesta.
 
 ---
 
-# 3. Requerimientos del Sistema
+# 3. Requerimientos del Nuevo Sistema
+
+Los requerimientos deberán surgir de las necesidades identificadas durante el relevamiento y análisis del sistema actual y deberán ser coherentes con los objetivos, alcance y límites definidos para el proyecto.
 
 ## 3.1 Actores del sistema
 
-Identificar los usuarios o sistemas externos que interactúan con la solución.
+Identificar los usuarios o sistemas externos que interactuarán con la nueva solución.
 
 | Actor | Descripción |
-|---------|------------|
-| | |
-| | |
+| ----- | ----------- |
+|       |             |
+|       |             |
 
 ---
 
 ## 3.2 Requerimientos funcionales
 
-Listado numerado.
+Listado numerado de las funcionalidades que deberá proporcionar el sistema.
 
-- RF01:
-- RF02:
-- RF03:
+* RF01:
+* RF02:
+* RF03:
 
 ---
 
 ## 3.3 Requerimientos no funcionales
 
-- RNF01:
-- RNF02:
-- RNF03:
+Definir las condiciones, restricciones y atributos de calidad que deberá cumplir el sistema.
+
+* RNF01:
+* RNF02:
+* RNF03:
 
 ---
 
 ## 3.4 Matriz de trazabilidad (Opcional)
 
-| Requerimiento | Proceso | Funcionalidad implementada |
-|---------------|----------|---------------------------|
-| | | |
-| | | |
+| Requerimiento | Problema o necesidad | Funcionalidad implementada |
+| ------------- | -------------------- | -------------------------- |
+|               |                      |                            |
+|               |                      |                            |
 
 ---
 
-# 4. Modelado de Procesos
+# 4. Modelado del Nuevo Sistema
 
-## 4.1 Diagrama de Contexto
+## 4.1 Diagramas de secuencia
 
-Representación del sistema y sus entidades externas.
+Desarrollar al menos dos diagramas correspondientes a procesos o funcionalidades críticas del nuevo sistema.
 
-## 4.2 DFD Nivel 0
-
-Descomposición principal de procesos.
-
-## 4.3 Diccionario de procesos
-
-Descripción breve de cada proceso identificado.
-
-| Proceso | Descripción |
-|----------|------------|
-| | |
-| | |
-
-## 4.4 Diccionario de datos (DFD)
-
-Definición de flujos de datos relevantes.
-
-| Flujo | Descripción |
-|--------|------------|
-| | |
-| | |
+Los diagramas deberán ser coherentes con los requerimientos funcionales definidos.
 
 ---
 
-# 5. Modelado del Sistema
+# 5. Diseño de Datos
 
-## 5.1 Diagramas de secuencia
+## 5.1 DER (Diagrama Entidad-Relación)
 
-Desarrollar al menos dos diagramas correspondientes a procesos críticos del sistema.
+Representar el modelo de datos correspondiente al nuevo sistema.
 
----
-
-# 6. Diseño de Datos
-
-## 6.1 DER (Diagrama Entidad-Relación)
-
-Modelo lógico de datos del sistema.
-
-## 6.2 Modelo relacional
+## 5.2 Modelo relacional
 
 Para cada tabla indicar:
 
-- Nombre.
-- Campos.
-- Clave primaria.
-- Claves foráneas.
+* Nombre.
+* Campos.
+* Clave primaria.
+* Claves foráneas.
 
-## 6.3 Normalización
+## 5.3 Normalización
 
 Aplicar hasta Tercera Forma Normal (3FN) cuando corresponda.
 
-## 6.4 Diccionario de datos
+## 5.4 Diccionario de datos
 
 | Campo | Tipo de dato | Descripción |
-|---------|-------------|------------|
-| | | |
-| | | |
+| ----- | ------------ | ----------- |
+|       |              |             |
+|       |              |             |
 
 ---
 
-# 7. Construcción del Sistema
+# 6. Construcción del Sistema
 
-## 7.1 Arquitectura de la solución
+## 6.1 Arquitectura de la solución
 
 Describir:
 
-- Arquitectura utilizada.
-- Componentes principales.
-- Diagrama de arquitectura (opcional).
+* Arquitectura utilizada.
+* Componentes principales.
+* Diagrama de arquitectura (opcional).
 
-## 7.2 Tecnologías utilizadas
+## 6.2 Tecnologías utilizadas
 
-- Lenguaje de programación.
-- Framework.
-- Motor de base de datos.
-- Herramientas complementarias.
+* Lenguaje de programación.
+* Framework.
+* Motor de base de datos.
+* Herramientas complementarias.
 
-## 7.3 Funcionalidades implementadas
+## 6.3 Funcionalidades implementadas
 
 Listado de funcionalidades desarrolladas.
 
-## 7.4 Capturas del sistema
+Las funcionalidades implementadas deberán mantener correspondencia con los requerimientos funcionales definidos.
+
+## 6.4 Capturas del sistema
 
 Pantallas principales acompañadas de una breve descripción.
 
 ---
 
-# 8. Despliegue y Uso
+# 7. Despliegue y Uso
 
-## 8.1 Requisitos técnicos
+## 7.1 Requisitos técnicos
 
 ### Software
 
-- Sistema operativo.
-- Servidor web o de aplicaciones.
-- Base de datos.
+* Sistema operativo.
+* Servidor web o de aplicaciones.
+* Base de datos.
 
 ### Dependencias
 
-- Librerías.
-- Frameworks.
-- Herramientas externas.
+* Librerías.
+* Frameworks.
+* Herramientas externas.
 
----
-
-## 8.2 Instalación y ejecución
+## 7.2 Instalación y ejecución
 
 Procedimiento paso a paso para ejecutar el sistema.
 
----
-
-## 8.3 Manual de usuario
+## 7.3 Manual de usuario
 
 ### Descripción general
 
@@ -350,56 +372,58 @@ Procedimiento para utilizar las funcionalidades principales.
 
 ---
 
-# 9. Validación y Pruebas
+# 8. Validación y Pruebas
 
-## 9.1 Casos de prueba
+## 8.1 Casos de prueba
 
 | Caso de prueba | Resultado esperado | Resultado obtenido |
-|----------------|--------------------|--------------------|
-| | | |
-| | | |
+| -------------- | ------------------ | ------------------ |
+|                |                    |                    |
+|                |                    |                    |
 
-## 9.2 Resultados de validación
+## 8.2 Resultados de validación
 
-Evidencia de cumplimiento de los requerimientos definidos.
+Presentar evidencia del cumplimiento de los requerimientos definidos.
 
 ---
 
-# 10. Conclusiones
+# 9. Conclusiones
 
-## 10.1 Resultados obtenidos
+## 9.1 Resultados obtenidos
 
-Análisis de los objetivos alcanzados.
+Analizar el grado de cumplimiento de los objetivos establecidos para el proyecto.
 
-## 10.2 Problemas encontrados
+## 9.2 Problemas encontrados
 
-Dificultades surgidas durante el desarrollo.
+Describir las principales dificultades surgidas durante el desarrollo.
 
-## 10.3 Mejoras futuras
+## 9.3 Mejoras futuras
 
-Funcionalidades o mejoras que podrían incorporarse en versiones posteriores.
+Indicar funcionalidades o mejoras que podrían incorporarse en versiones posteriores.
 
 ---
 
 # Criterios obligatorios
 
-- El sistema debe funcionar correctamente.
-- Debe existir persistencia en base de datos.
-- Los requerimientos definidos deben estar implementados.
-- El DFD debe representar los procesos reales del sistema.
-- El DER debe coincidir con la base de datos implementada.
-- Debe existir coherencia entre análisis, diseño e implementación.
+* El sistema debe funcionar correctamente.
+* Debe existir persistencia en base de datos.
+* Los requerimientos definidos deben estar implementados.
+* El Diagrama de Contexto y el DFD Nivel 0 deben representar correctamente el sistema actual relevado.
+* Los DFD deberán ser coherentes con la narrativa y las evidencias obtenidas durante el relevamiento.
+* El DER debe representar el modelo de datos del sistema desarrollado y coincidir con la base de datos implementada.
+* Debe existir coherencia entre los problemas detectados, los requerimientos definidos y la solución desarrollada.
 
 ---
 
 # Motivos de desaprobación
 
-- Sistema no funcional.
-- Ausencia de base de datos.
-- Inconsistencia entre análisis e implementación.
-- Diagramas inexistentes o incorrectos.
-- Trabajo copiado o genérico.
-- Falta de evidencia del desarrollo realizado.
+* Sistema no funcional.
+* Ausencia de base de datos.
+* Inconsistencia entre análisis, requerimientos e implementación.
+* Diagramas inexistentes o incorrectos.
+* DFD que no represente el sistema actual relevado.
+* Trabajo copiado o genérico.
+* Falta de evidencia del desarrollo realizado.
 
 ---
 
@@ -407,18 +431,18 @@ Funcionalidades o mejoras que podrían incorporarse en versiones posteriores.
 
 El Trabajo Práctico Final debe demostrar la capacidad del alumno para aplicar de forma integrada las etapas de:
 
-- Relevamiento.
-- Análisis.
-- Diseño.
-- Construcción.
-- Validación.
-- Implementación.
+* Relevamiento.
+* Análisis.
+* Definición de requerimientos.
+* Diseño.
+* Construcción.
+* Validación.
+* Implementación.
 
-Se evaluará principalmente la coherencia entre:
+Se evaluará especialmente la trazabilidad y coherencia del proyecto:
 
-- Problemas detectados.
-- Requerimientos definidos.
-- Modelos elaborados.
-- Solución desarrollada.
+**Sistema actual relevado → Problemas detectados → Requerimientos → Diseño de la solución → Sistema implementado**
 
-El trabajo debe presentar una solución funcional que responda a una necesidad real, aplicando correctamente los conceptos estudiados durante la carrera.
+El sistema actual deberá ser comprendido y documentado mediante el relevamiento y los DFD correspondientes. A partir de los problemas y necesidades identificados se definirán los requerimientos que darán origen al nuevo sistema.
+
+La solución desarrollada deberá responder a una necesidad real y mantener coherencia con el análisis realizado durante el proyecto.

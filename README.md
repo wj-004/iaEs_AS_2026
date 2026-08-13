@@ -55,3 +55,4 @@ En la carpeta `BIBLIOGRAFIA/` encontrarás los libros, apuntes y documentos de l
 - **APUNTES/**: Notas complementarias, borradores o explicaciones adicionales.
 - **PLANIFICACIONES/**: Contiene el programa, el cronograma y la planificación oficial de la materia.
 - **PRESENTACIONES/**: Todo el material visual tipo presentación o diapositivas que acompaña la explicación de los temas teóricos.
+
